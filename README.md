@@ -1,4 +1,3 @@
-Machine-Learning-Cancer-Classifier
 Using Machine Learning for Cancer Diagnostics
 
 Data Sets:
